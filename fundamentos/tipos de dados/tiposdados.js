@@ -17,7 +17,12 @@ COMPLEXOS:
 
 */
 
-let amount = 6;
-let price = 4.99;
+// Testando alguns dos tipos de dados
+let numb = 6;
+let strg = 'Hello';
+let bool = true;
+let undef;
+let empty = null;
 
-console.log(amount, price);
+console.log(numb, strg, bool, undef, empty);
+
