@@ -26,3 +26,4 @@ let empty = null;
 
 console.log(numb, strg, bool, undef, empty);
 
+ 
